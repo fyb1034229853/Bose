@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Base_Util" />
+        <module name="crm" />
+        <module name="front" />
+        <module name="manage_dao" />
+        <module name="manage_domain" />
+        <module name="manage_service" />
+        <module name="manage_servlet" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Base_Util" target="1.7" />
+      <module name="Boss" target="1.7" />
+      <module name="crm" target="1.7" />
+      <module name="front" target="1.7" />
+      <module name="manage" target="1.7" />
+      <module name="manage_dao" target="1.7" />
+      <module name="manage_domain" target="1.7" />
+      <module name="manage_service" target="1.7" />
+      <module name="manage_servlet" target="1.7" />
+      <module name="managedao" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

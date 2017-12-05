@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/manage/Base_Util/Base_Util.iml" filepath="$PROJECT_DIR$/manage/Base_Util/Base_Util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boss.iml" filepath="$PROJECT_DIR$/Boss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crm/crm.iml" filepath="$PROJECT_DIR$/crm/crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/front/front.iml" filepath="$PROJECT_DIR$/front/front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage.iml" filepath="$PROJECT_DIR$/manage/manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage_dao/manage_dao.iml" filepath="$PROJECT_DIR$/manage/manage_dao/manage_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage_domain/manage_domain.iml" filepath="$PROJECT_DIR$/manage/manage_domain/manage_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage_service/manage_service.iml" filepath="$PROJECT_DIR$/manage/manage_service/manage_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage_servlet/manage_servlet.iml" filepath="$PROJECT_DIR$/manage/manage_servlet/manage_servlet.iml" />
+    </modules>
+  </component>
+</project>
